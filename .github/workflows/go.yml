@@ -7,11 +7,11 @@ on:
   push:
     branches: [ "main" ]
     paths:
-      - "Curso - Integracao Continua Testes Automatizados e Pipeline no Github Actions/Projeto/**"
+      - "Curso - Integracao Continua Testes Automatizados e Pipeline no Github Actions/**"
   pull_request:
     branches: [ "main" ]
     paths:
-      - "Curso - Integracao Continua Testes Automatizados e Pipeline no Github Actions/Projeto/**"
+      - "Curso - Integracao Continua Testes Automatizados e Pipeline no Github Actions/**"
 
 jobs:
 
