@@ -1,6 +1,5 @@
 package routes
 
-// Comment
 import (
 	"github.com/gin-gonic/gin"
 	"github.com/guilhermeonrails/api-go-gin/controllers"
