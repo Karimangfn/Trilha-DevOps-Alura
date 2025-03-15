@@ -7,11 +7,11 @@ on:
   push:
     branches: [ "main" ]
     paths:
-      - "Curso - Integracao Continua Testes Automatizados e Pipeline no Github Actions/**"
+      - "Curso - Integracao Continua Testes Automatizados e Pipeline no Github Actions/Projeto/**"
   pull_request:
     branches: [ "main" ]
     paths:
-      - "Curso - Integracao Continua Testes Automatizados e Pipeline no Github Actions/**"
+      - "Curso - Integracao Continua Testes Automatizados e Pipeline no Github Actions/Projeto/**"
 
 jobs:
 
@@ -25,14 +25,11 @@ jobs:
       with:
         go-version: '1.20'
 
-    - name: Set up Docker Buildx
-      uses: docker/setup-buildx-action@v3
-
     - name: Build-DB
-      run: docker compose build
+      run: docker-compose build
 
     - name: Create-DB
-      run: docker compose up -d
+      run: docker-compose up -d
 
     - name: Test
       run: go test -v main_test.go
