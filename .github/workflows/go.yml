@@ -35,6 +35,7 @@ jobs:
 
     - name: Test
       run: go test -v main_test.go
+      working-directory: Curso - Integracao Continua Testes Automatizados e Pipeline no Github Actions/Projeto
 
   build:
     needs: test
@@ -44,3 +45,4 @@ jobs:
     
     - name: Build
       run: go build -v main.go
+      working-directory: Curso - Integracao Continua Testes Automatizados e Pipeline no Github Actions/Projeto
