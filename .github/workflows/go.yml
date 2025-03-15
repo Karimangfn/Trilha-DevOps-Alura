@@ -27,9 +27,11 @@ jobs:
 
     - name: Build-DB
       run: docker compose build
-
+      working-directory: Curso - Integracao Continua Testes Automatizados e Pipeline no Github Actions/Projeto
+    
     - name: Create-DB
       run: docker compose up -d
+      working-directory: Curso - Integracao Continua Testes Automatizados e Pipeline no Github Actions/Projeto
 
     - name: Test
       run: go test -v main_test.go
