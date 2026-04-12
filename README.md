@@ -1,4 +1,4 @@
-# 🛠️ Trilha DevOps (Alura)
+# 🛠️ DevOps (Alura)
 
 📚 Trilha da plataforma Alura focada em práticas DevOps, automação e cultura de melhoria contínua.
 
