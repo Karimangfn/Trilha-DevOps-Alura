@@ -68,4 +68,3 @@ As dependências garantem que a ordem de execução seja respeitada, impedindo q
 
 ## Links Úteis
 - [Documentação oficial do Ansible](https://docs.ansible.com/)
-- [Primeiros passos com Devops – Hipsters Ponto Tech #81](https://www.hipsters.tech/primeiros-passos-com-devops-hipsters-81/)
