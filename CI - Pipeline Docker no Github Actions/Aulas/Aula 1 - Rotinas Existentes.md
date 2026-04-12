@@ -1,4 +1,4 @@
-# Rotinas de Integração Contínua (CI)
+# Rotinas Existentes
 
 ## Introdução ao GitHub Actions
 O **GitHub Actions** é a ferramenta de CI utilizada para automatizar fluxos de trabalho diretamente no repositório. O objetivo é garantir que processos como testes e compilação (*build*) sejam executados automaticamente em todas as etapas do desenvolvimento.
