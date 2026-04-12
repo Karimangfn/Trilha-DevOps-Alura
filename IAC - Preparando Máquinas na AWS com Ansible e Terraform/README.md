@@ -2,7 +2,7 @@
 
 📚 Curso da plataforma Alura focado em introduzir conceitos de Infraestrutura como Código utilizando Terraform e Ansible.
 
-* 🔗 Curso na Alura: *https://www.alura.com.br/curso-online-infraestrutura-codigo-ansible-terraform*
+* 🔗 Curso na Alura: *https://www.alura.com.br/infraestrutura-codigo-maquinas-aws-ansible-terraform*
 
 ---
 
