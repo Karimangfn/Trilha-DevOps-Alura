@@ -34,7 +34,7 @@ O foco é transformar o modo como você gerencia sistemas, tornando-os **escalá
 
 ## 📦 Estrutura da trilha
 
-### 1️⃣ Aprender virtualização e provisionamento
+### 1️⃣ Virtualização e provisionamento
 
 📁 Pasta no repositório:
 👉 [IAC - Preparando Máquinas na AWS com Ansible e Terraform](./IAC%20-%20Preparando%20Maquinas%20na%20AWS%20com%20Ansible%20e%20Terraform/)
@@ -50,7 +50,7 @@ O foco é transformar o modo como você gerencia sistemas, tornando-os **escalá
 
 ---
 
-### 2️⃣ Dominar conteinerização
+### 2️⃣ Conteinerização
 
 📁 Pasta no repositório:
 👉 [Docker - Criando e Gerenciando Containers](./Docker%20-%20Criando%20e%20Gerenciando%20Containers/)
@@ -66,7 +66,7 @@ O foco é transformar o modo como você gerencia sistemas, tornando-os **escalá
 
 ---
 
-### 3️⃣ Aprender sobre integração e entrega contínua
+### 3️⃣ Integração e entrega contínua
 
 📁 Pasta no repositório:
 👉 [CI - Pipelines e Testes Automatizados no Github Actions](./CI%20-%20Pipelines%20e%20Testes%20Automatizados%20no%20Github%20Actions/)
