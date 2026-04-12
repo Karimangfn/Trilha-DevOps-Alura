@@ -36,8 +36,8 @@ O foco é transformar o modo como você gerencia sistemas, tornando-os **escalá
 
 ### 1️⃣ Virtualização e provisionamento
 
-📁 Pasta no repositório:
-👉 [IAC - Preparando Máquinas na AWS com Ansible e Terraform](./IAC%20-%20Preparando%20Maquinas%20na%20AWS%20com%20Ansible%20e%20Terraform/)
+📁 Pasta no repositório:  
+👉 [IAC - Preparando Máquinas na AWS com Ansible e Terraform](./IAC%20-%20Preparando%20M%C3%A1quinas%20na%20AWS%20com%20Ansible%20e%20Terraform/)
 
 🔗 Curso na Alura:
 👉 *[https://www.alura.com.br/curso-online-infraestrutura-codigo-ansible-terraform](https://www.alura.com.br/curso-online-infraestrutura-codigo-ansible-terraform)*
