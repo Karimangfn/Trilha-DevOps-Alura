@@ -2,7 +2,7 @@
 
 📚 Curso da plataforma Alura focado em coletar e analisar métricas de aplicações utilizando Prometheus.
 
-* 🔗 Curso na Alura: *https://www.alura.com.br/curso-online-observabilidade-coletando-metricas-prometheus*
+* 🔗 Curso na Alura: *https://alura.com.br/curso-online-observabilidade-prometheus*
 
 ---
 
