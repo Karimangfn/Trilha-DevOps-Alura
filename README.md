@@ -10,7 +10,7 @@
 
 Esta trilha tem como objetivo ensinar os fundamentos da **cultura DevOps**, incluindo colaboração, automação, monitoramento e integração contínua.
 
-Você aprenderá a usar ferramentas essenciais do mercado, como **Docker, Jenkins, Ansible e Terraform**, além de compreender conceitos como:
+Ao longo dos cursos, são abordados temas como:
 
 * Integração e entrega contínua (CI/CD)
 * Infraestrutura como código (IaC)
