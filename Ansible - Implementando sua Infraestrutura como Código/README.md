@@ -2,7 +2,7 @@
 
 📚 Curso da plataforma Alura focado em automatizar a configuração de infraestrutura utilizando Ansible.
 
-* 🔗 Curso na Alura: *https://www.alura.com.br/curso-online-ansible-implementando-sua-infraestrutura-como-codigo*
+* 🔗 Curso na Alura: *https://www.alura.com.br/curso-online-ansible-implementando-infraestrutura-codigo*
 
 ---
 
