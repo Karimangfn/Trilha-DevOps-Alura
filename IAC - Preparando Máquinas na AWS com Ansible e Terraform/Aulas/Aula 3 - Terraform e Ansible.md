@@ -39,8 +39,6 @@
   ansible-playbook playbook.yml -u ubuntu --private-key chave.pem -i hosts.yml
   ```
 
-
-
 ## Fundamentos e Boas Práticas
 
 - **Separação de Responsabilidades**: 
