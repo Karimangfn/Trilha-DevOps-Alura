@@ -1,5 +1,3 @@
-Aqui está o README da Aula 1, sintetizado e organizado conforme o padrão estabelecido:
-
 # Fundamentos da IaC
 
 ## Instalação e Configuração
