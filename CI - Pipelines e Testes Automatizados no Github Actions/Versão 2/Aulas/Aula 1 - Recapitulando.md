@@ -2,8 +2,6 @@
 
 A integração contínua (CI) é uma cultura de desenvolvimento voltada para projetos em equipe, onde as alterações de código são integradas à branch principal (`main`) de forma frequente — idealmente várias vezes ao dia. O objetivo é detectar conflitos rapidamente e garantir a estabilidade do sistema através de processos automatizados de testes e qualidade.
 
-
-
 ## Ferramentas e Ambiente
 O curso utiliza um conjunto de ferramentas essenciais para a prática de CI:
 * **Visual Studio Code (VSC):** Editor de código.
