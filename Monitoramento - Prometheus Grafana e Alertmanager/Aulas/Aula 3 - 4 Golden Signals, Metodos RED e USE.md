@@ -9,8 +9,6 @@
 - Estrutura da query: `histogram_quantile(0.99, sum(rate(métrica[1m])) by (le))`.
 - Configuração do painel: Visualização em **Time series**, unidade em **seconds (s)** e legenda em modo **Table**.
 
-
-
 ### Contagem de Requisições por Endpoint
 - Uso da métrica `http_server_requests_seconds_count` com a função `increase()` para medir o crescimento no último minuto.
 - Agregação com `sum()` para consolidar dados de múltiplos status (ex: sucessos e erros 500) em uma única linha por URI.
@@ -33,8 +31,6 @@
 - **HEAP USED**: Cálculo do percentual de uso da memória heap comparando `jvm_memory_used_bytes` com `jvm_memory_max_bytes`.
 - **NON-HEAP USED**: Monitoramento da área de memória non-heap (metaspace, etc).
 - Visualização em **Gauge** com thresholds: 80% (Alerta/Vermelho) e 100% (Crítico/Roxo).
-
-
 
 ### Utilização e Carga de CPU
 - **CPU UTILIZATION**: Comparação entre o uso de CPU do sistema (`system_cpu_usage`) e do processo da aplicação (`process_cpu_usage`).
