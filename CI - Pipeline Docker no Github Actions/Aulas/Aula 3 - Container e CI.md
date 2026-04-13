@@ -25,8 +25,6 @@ O **Marketplace** funciona como uma biblioteca de funções prontas. Em vez de e
 * **Popularidade**: Projetos com mais estrelas/recomendações tendem a ser mais estáveis.
 * **Oficiais**: Use ações desenvolvidas pelas próprias empresas das ferramentas (ex: `docker/setup-buildx-action`).
 
-
-
 ---
 
 ## Configuração do Workflow Docker
