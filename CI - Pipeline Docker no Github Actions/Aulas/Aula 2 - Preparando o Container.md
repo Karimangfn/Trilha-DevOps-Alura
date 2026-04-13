@@ -34,8 +34,6 @@ CMD [ "./main" ]
 ## Variáveis de Ambiente e Conexão
 Para que a aplicação seja portátil (funcione em Nuvem ou Local), substituímos valores fixos de conexão por variáveis de ambiente usando a biblioteca `os` do Go:
 
-
-
 **Exemplo de implementação no código (`db.go`):**
 ```go
 stringDeConexao := "host="+os.Getenv("HOST")+" user="+os.Getenv("USER")+" ..."
