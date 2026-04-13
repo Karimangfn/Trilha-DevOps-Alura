@@ -52,9 +52,7 @@ Para entender a proporção de falhas em relação ao tráfego total, utiliza-se
     * **Queries adicionais**: Criadas para status `400` e `404`.
     * **Unidade**: `Misc > Percent (0.1-1.0)`.
     * **Cores da Legenda**: Vermelho (500), Laranja (400), Amarelo (404).
-
 ---
-
 ## Funções PromQL Utilizadas
 | Função | Uso Prático |
 | :--- | :--- |
