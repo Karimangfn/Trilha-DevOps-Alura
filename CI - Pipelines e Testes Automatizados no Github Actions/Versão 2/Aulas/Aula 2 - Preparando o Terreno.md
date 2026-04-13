@@ -2,8 +2,6 @@
 
 Nesta etapa, focamos na construção de uma **esteira de processos (CI Pipeline)** para garantir que o código seja integrado com segurança. Uma esteira típica de Integração Contínua segue uma ordem lógica de validação.
 
-
-
 ---
 
 ## 1. Ferramenta de Qualidade (Lint)
