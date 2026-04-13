@@ -1,5 +1,3 @@
-Monitoramento - Prometheus Grafana e Alertmanager/Aulas/Aula 1 - Dashboards com Grafana.md
-
 # Dashboards com Grafana
 
 ## Instalação e Configuração
